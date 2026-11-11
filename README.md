@@ -28,5 +28,3 @@ claude plugin install usage-pace --marketplace dziliak/claude-usage-pace
 ```
 
 In the desktop app, where `/plugin` does not run: click + next to the prompt box, then Plugins, Add marketplace with `dziliak/claude-usage-pace`, then Add plugin.
-
-This repository is private: it installs only for people who can read it on GitHub and whose machine already holds a git credential for github.com (an SSH key, or `gh auth login` then `gh auth setup-git`).
