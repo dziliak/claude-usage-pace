@@ -1,0 +1,6 @@
+{
+  "name": "usage-pace",
+  "version": "0.1.0",
+  "description": "Prompt-footer label showing 5-hour and weekly usage, pace, and whether you'll reach the reset",
+  "types": "./types/index.d.ts"
+}
